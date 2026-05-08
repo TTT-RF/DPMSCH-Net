@@ -1,4 +1,4 @@
 # DPMSC-Net
 
 
-We promise that the complete codebase will be made fully public in this repository immediately upon the acceptance of the paper. 
+We will make the complete codebase fully public in this repository as soon as the paper is accepted.
